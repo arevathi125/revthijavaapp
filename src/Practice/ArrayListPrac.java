@@ -8,7 +8,8 @@ public class ArrayListPrac {
 
 	public static void main(String[] args) {
 		
-		// USING ARRAYLIST
+		// USING ARRAYLIST FOR PRACTICE
+		
 		
 		ArrayList<String> name = new ArrayList<String>();
 		ArrayList<Integer> regNum = new ArrayList<Integer>();
